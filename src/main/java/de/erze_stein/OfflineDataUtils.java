@@ -38,7 +38,7 @@ public class OfflineDataUtils {
 
             return inventory;
         } catch (IOException | ClassNotFoundException e) {
-            Bukkit.getLogger().severe("Fehler beim Laden der Spieldaten: " + e.getMessage());
+            Bukkit.getLogger().severe("Error on load Player Data: " + e.getMessage());
             return null;
         }
     }
