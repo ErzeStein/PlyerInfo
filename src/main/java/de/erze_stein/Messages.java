@@ -75,7 +75,6 @@ public class Messages {
                 getLogger().warning("Error saving messages.yml: " + e.getMessage());
             }
 
-            // Debugging-Ausgabe
             getLogger().info("Added default message for key '" + key + "' to messages.yml");
         }
     }
