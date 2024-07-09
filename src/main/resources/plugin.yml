@@ -1,0 +1,12 @@
+name: PlayerInfo
+version: '${project.version}'
+main: de.erze_stein.Main
+api-version: '1.20'
+commands:
+  playerinfo:
+    description: Gibt Informationen über einen Spieler aus.
+    permission: playerinfo.use
+permissions:
+  playerinfo.use:
+    description:
+    default: true
