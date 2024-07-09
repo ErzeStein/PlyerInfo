@@ -1,0 +1,13 @@
+messages:
+  usage: "&c&lUsage: /info <PlayerName/PlayerUUID>"
+  player_not_found: "&c&lPlayer %player% not found."
+  player_name: "&e&lPlayer Name&7: %playername%"
+  player_uuid: "&e&lPlayer UUID&7: %playeruuid%"
+  has_played_before: "&e&lEver been on the server&7: %playedbefore%"
+  last_online: "&e&lLast online&7: %lastonline%"
+  balance: "&e&lBalance&7: %balance%"
+  economy_not_found: "&c&lEconomy plugin not found or not supported."
+  rank: "&e&lRank&7: %rank%"
+  no_rank_found: "&c&lNo rank found."
+  permissions_not_found: "&c&lPermissions plugin not found or not supported."
+  nopermission: "&c&lSorry but you dont have Permissions to make this COmmand"
